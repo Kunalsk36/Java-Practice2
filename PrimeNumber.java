@@ -28,5 +28,6 @@ public class PrimeNumber {
         System.out.println("Enter the number: ");
         int num = sc.nextInt();
         System.out.println(isPrime(num));
+        sc.close();
     }
 }
