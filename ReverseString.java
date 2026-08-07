@@ -13,7 +13,7 @@ class ReverseString{
         System.out.println("enter the string to reverse: ");
         String str = sc.nextLine();
         System.out.println(reverseString(str));
-
+        sc.close();
     }
 }
 
