@@ -1,3 +1,4 @@
+package PreviousPractice;
 import java.util.Scanner;
 public class PalindromeString {
     public static boolean isPalindromeString(String str){

@@ -1,3 +1,4 @@
+package PreviousPractice;
 import java.util.Scanner;
 
 class PalindromeNumber{

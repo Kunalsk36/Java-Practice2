@@ -1,3 +1,4 @@
+package PreviousPractice;
 // 4. Prime Number
 
 // Check whether a number is prime.

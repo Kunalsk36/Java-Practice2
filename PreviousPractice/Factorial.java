@@ -1,3 +1,4 @@
+package PreviousPractice;
 // 3. Factorial
 
 // Find factorial of a number.

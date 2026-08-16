@@ -1,3 +1,4 @@
+package PreviousPractice;
 // 2. Largest of Three Numbers
 // Input:
 // 10 25 15

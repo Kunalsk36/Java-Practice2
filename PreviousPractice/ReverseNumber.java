@@ -1,3 +1,4 @@
+package PreviousPractice;
 // 6. Reverse Number
 // Input:
 // 12345

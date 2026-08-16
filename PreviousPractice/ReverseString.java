@@ -1,3 +1,4 @@
+package PreviousPractice;
 import java.util.*;
 class ReverseString{
     public static String reverseString(String str){

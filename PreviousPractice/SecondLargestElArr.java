@@ -1,3 +1,4 @@
+package PreviousPractice;
 import java.util.Scanner;
 public class SecondLargestElArr {
     public static int secondLargestEl(int[] arr){

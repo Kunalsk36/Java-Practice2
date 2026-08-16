@@ -1,3 +1,4 @@
+package PreviousPractice;
 public class PrintPattern1 {
     public static void main(String[] args){
         String star = "*";

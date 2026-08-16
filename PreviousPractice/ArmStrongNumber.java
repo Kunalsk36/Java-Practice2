@@ -1,3 +1,4 @@
+package PreviousPractice;
 // 8. Armstrong Number
 // Input:
 // 153

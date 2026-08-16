@@ -1,3 +1,4 @@
+package PreviousPractice;
 // 7. Sum of Digits
 // Input:
 // 456

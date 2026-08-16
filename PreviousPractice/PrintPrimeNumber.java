@@ -1,3 +1,4 @@
+package PreviousPractice;
 // Print Prime Numbers 1 to 100
 
 public class PrintPrimeNumber {

@@ -1,3 +1,4 @@
+package PreviousPractice;
 // 1. Even or Odd
 
 // Input an integer and print whether it is Even or Odd.

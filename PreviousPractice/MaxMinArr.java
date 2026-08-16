@@ -1,3 +1,4 @@
+package PreviousPractice;
 public class MaxMinArr {
     public static void main(String[] args){
         int min = Integer.MAX_VALUE;
