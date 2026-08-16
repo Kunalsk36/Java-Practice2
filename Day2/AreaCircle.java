@@ -8,9 +8,11 @@ public class AreaCircle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the radius: ");
-        int r = sc.nextInt();
-        double pi = 3.14;
-        System.out.println(pi*r*r);
+        double r = sc.nextDouble();
+        // double pi = 3.14;
+        // double area = pi * r * r;
+        double area = Math.PI * r * r;
+        System.out.println(area);
         sc.close();
     }
 }
