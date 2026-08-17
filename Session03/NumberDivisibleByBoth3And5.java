@@ -1,3 +1,5 @@
+// Check whether a number is divisible by both 3 and 5.
+
 package Session03;
 
 import java.util.Scanner;
@@ -17,7 +19,7 @@ public class NumberDivisibleByBoth3And5 {
             System.out.println("The number is divisible by 5");
         }
         else{
-            System.out.println("The number is not divisible by both 3 and 5");
+            System.out.println("The number is not divisible by 3 and 5");
         }
         sc.close();
     }
