@@ -1,6 +1,6 @@
 // Take name and age from Scanner and print a formatted introduction.
 
-package Day1;
+package Session01;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 // Take two integers and print sum, difference, product, quotient and remainder.
 
-package Day1;
+package Session01;
 
 import java.util.Scanner;
 

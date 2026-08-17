@@ -1,6 +1,6 @@
 // Calculate area of a rectangle.
 
-package Day2;
+package Session02;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 // Swap two numbers without using a third variable.
 
-package Day2;
+package Session02;
 
 import java.util.Scanner;
 

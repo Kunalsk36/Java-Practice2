@@ -1,6 +1,6 @@
 // Print a sentence using multiple System.out.println() statements.
 
-package Day1;
+package Session01;
 
 public class PrintSentences {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 // Check whether a number is positive, negative or zero.
 
-package Day3;
+package Session03;
 
 import java.util.Scanner;
 

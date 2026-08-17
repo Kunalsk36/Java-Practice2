@@ -1,6 +1,6 @@
 // Convert Celsius to Fahrenheit.
 
-package Day2;
+package Session02;
 
 import java.util.Scanner;
 

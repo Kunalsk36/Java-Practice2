@@ -1,6 +1,6 @@
 // Find maximum between two numbers.
 
-package Day3;
+package Session03;
 
 import java.util.Scanner;
 

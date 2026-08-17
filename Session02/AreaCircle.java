@@ -1,6 +1,6 @@
 // Calculate area of a Circle.
 
-package Day2;
+package Session02;
 
 import java.util.Scanner;
 

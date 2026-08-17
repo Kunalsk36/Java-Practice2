@@ -1,6 +1,6 @@
 // Print your name, age, city and college on separate lines.
 
-package Day1;
+package Session01;
 
 public class PrintSeparateLine {
     public static void main(String[] args) {

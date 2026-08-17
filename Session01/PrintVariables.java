@@ -1,6 +1,6 @@
 // Declare int, double, char, boolean and String variables and print them.
 
-package Day1;
+package Session01;
 
 public class PrintVariables {
     public static void main(String[] args) {

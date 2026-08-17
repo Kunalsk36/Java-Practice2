@@ -1,6 +1,6 @@
 // Take an integer from Scanner and print it.
 
-package Day1;
+package Session01;
 
 import java.util.Scanner;
 

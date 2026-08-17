@@ -1,6 +1,6 @@
 // Calculate total and average of three numbers.
 
-package Day2;
+package Session02;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 // Check whether a number is even or odd.
 
-package Day3;
+package Session03;
 
 import java.util.Scanner;
 
