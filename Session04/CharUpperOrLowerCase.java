@@ -18,5 +18,17 @@ public class CharUpperOrLowerCase {
         else {
             System.out.println("The character is not alphabet.");
         }
+
+        // another approach:
+        if(Character.isUpperCase(ch)){
+            System.out.println("The character is Uppercase");
+        }
+        else if(Character.isLowerCase(ch)){
+            System.out.println("The character is Lowercase.");
+        }
+        else{
+            System.out.println("The character is not alphabet.");
+        }
+        sc.close();
     }
 }
