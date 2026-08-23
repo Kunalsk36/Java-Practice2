@@ -1,3 +1,5 @@
+// Print all odd numbers from 1 to N.
+
 package Session06;
 
 import java.util.Scanner;

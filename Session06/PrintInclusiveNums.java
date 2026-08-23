@@ -1,3 +1,5 @@
+// Print numbers between a starting and ending number inclusive.
+
 package Session06;
 
 import java.util.Scanner;
