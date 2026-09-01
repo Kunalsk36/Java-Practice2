@@ -25,6 +25,7 @@ public class MonthDaysCountChecker {
         int month = sc.nextInt();
         System.out.println("Enter the year : ");
         int year = sc.nextInt();
+        sc.close();
         int days = 0;
         if(year <= 0) {
             System.out.println("Entered wrong year!");
