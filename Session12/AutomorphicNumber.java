@@ -15,22 +15,29 @@ package Session12;
 import java.util.Scanner;
 
 public class AutomorphicNumber {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the number : ");
-        int num = sc.nextInt();
-        sc.close();
-        int temp = num;
-        int divisor = 1;
+    public static boolean isAutomorphicNumber(long num) {
+        if(num < 0) {
+            return false;
+        }
+        long temp = num;
+        long divisor = 1;
         while (temp != 0) {
             temp /= 10;
             divisor *= 10;
         }
-        if(num == (num*num)%divisor) {
+        return num == (num*num)%divisor;
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number : ");
+        long num = sc.nextLong();
+        if (isAutomorphicNumber(num)) {
             System.out.println("The number "+num+" is Automorphic Number.");
         }
         else {
             System.out.println("The number "+num+" is not Automorphic Number.");
         }
+        sc.close();
     }
 }
