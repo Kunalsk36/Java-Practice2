@@ -21,5 +21,6 @@ public class FirstDigitOfNumber {
         System.out.println("Enter the number : ");
         int num = sc.nextInt();
         System.out.println("The first digit of the number "+num+" is "+firstDigit(num));
+        sc.close();
     }
 }

@@ -26,5 +26,6 @@ public class CountOccurencesOfDigit {
         int digit = sc.nextInt();
         int occ = countOfOccurencesOfDigit(num, digit);
         System.out.println("The occurences of digit "+digit+" in number "+num+" is "+occ);
+        sc.close();
     }
 }

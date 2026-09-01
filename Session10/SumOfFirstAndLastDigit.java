@@ -29,5 +29,6 @@ public class SumOfFirstAndLastDigit {
         int num = sc.nextInt();
         int res = sumOfFirstAndLastDigit(num);
         System.out.println("The sum of first and last digit of number "+num+" is "+res);
+        sc.close();
     }
 }

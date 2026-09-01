@@ -31,5 +31,6 @@ public class LargestAndSecondLargestDigit {
         int num = sc.nextInt();
         int[] res = largestAndSecondLargestDigit(num);
         System.out.println("From the number "+num+" the largest digit is "+res[0]+" and second largest digit is "+res[1]);
+        sc.close();
     }
 }
