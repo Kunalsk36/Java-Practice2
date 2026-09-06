@@ -21,5 +21,6 @@ public class PrintPattern2 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
