@@ -39,5 +39,6 @@ public class PrimeNumberAfterN {
         System.out.println("enter the number: ");
         int num = sc.nextInt();
         printPrimeNumberAfterN(num);
+        sc.close();
     }
 }
