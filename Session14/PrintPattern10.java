@@ -28,5 +28,6 @@ public class PrintPattern10 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
