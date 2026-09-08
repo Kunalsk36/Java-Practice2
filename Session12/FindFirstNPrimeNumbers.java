@@ -38,5 +38,6 @@ public class FindFirstNPrimeNumbers {
         System.out.println("Enter the n Number : ");
         int n = sc.nextInt();
         printPrimeNumbers(n);
+        sc.close();
     }
 }

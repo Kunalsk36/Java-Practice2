@@ -39,5 +39,6 @@ public class CountPrimeNumbersInRange {
         System.out.println("Enter the end number for range: ");
         int end = sc.nextInt();
         System.out.println("The count of prime numbers in "+start+" to "+end+" range is "+countPrimeNumbersInRange(start, end));
+        sc.close();
     }
 }
