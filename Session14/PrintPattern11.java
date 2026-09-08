@@ -1,3 +1,19 @@
+/* Print pyramid pattern : 
+ 3 -->
+    *     
+  * * *   
+* * * * * 
+ 
+5 -->
+
+        *         
+      * * *       
+    * * * * *     
+  * * * * * * *   
+* * * * * * * * * 
+
+ */
+
 package Session14;
 
 import java.util.Scanner;
@@ -20,18 +36,3 @@ public class PrintPattern11 {
         sc.close();
     }
 }
-/*
- * 3 -->
- *
- ***
- *****
- * 
- * 5 -->
- *
- ***
- *****
- *******
- *********
- * 
- * 
- */
