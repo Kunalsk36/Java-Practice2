@@ -29,9 +29,9 @@ public class Pattern7 {
                 else{
                     System.out.print("  ");
                 }
-                    // System.out.print("("+i+","+j+")");
             }
             System.out.println();
         }
+        sc.close();
     }
 }
