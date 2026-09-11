@@ -24,7 +24,6 @@ public class Pattern5 {
                 else{
                     System.out.print("  ");
                 }
-                    // System.out.print("("+i+","+j+")");
             }
             System.out.println();
         }
